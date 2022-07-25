@@ -1,0 +1,24 @@
+{
+  "name": "im-learning-typescript",
+  "version": "1.0.0",
+  "description": "Here are all my exercises from book [*Programming TypeScript* by *Boris Cherny (O'Reilly).*](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaotianxt/im-learning-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaotianxt/im-learning-ts/issues"
+  },
+  "homepage": "https://github.com/xiaotianxt/im-learning-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.6.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
+  }
+}
