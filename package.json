@@ -4,7 +4,8 @@
   "description": "Here are all my exercises from book [*Programming TypeScript* by *Boris Cherny (O'Reilly).*](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./dist/index.js"
   },
   "repository": {
     "type": "git",
